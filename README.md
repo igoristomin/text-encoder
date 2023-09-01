@@ -15,9 +15,6 @@ the text, a key search occurs, the key symbols are replaced by alphabet symbols.
 * Alphabet: /src/main/resources/alphabet.txt
 * Key: /src/main/resources/key.txt
 
-## Backend schema
-![Relationships of elements](readme/back-schema.svg)
-
 ## Installation
 1. Run this project in a development environment
 
