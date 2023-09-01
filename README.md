@@ -21,4 +21,5 @@ the text, a key search occurs, the key symbols are replaced by alphabet symbols.
 ## Release notes
 * Project type: Console application
 * Date of release: 15 July 2023
-* Current version: 1.0
+* Date of last update: 1 September 2023
+* Current version: 1.1
